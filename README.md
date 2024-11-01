@@ -29,11 +29,11 @@ https://github.com/zjordan16/Handicap-Calculator
 
 <p align="center">
 Login Screen <br/>
-<img src=https://i.imgur.com/qQ5B03w.png height="60%" width="60%" alt="Login Screen"/>
+<img src=https://i.imgur.com/qQ5B03w.png height="80%" width="80%" alt="Login Screen"/>
 <br />
 <br />
 Round Input & Score History Screen  <br/>
-<img src="https://i.imgur.com/7mbBodZ.png" height="60%" width="60%" alt="Score History Screen"/>
+<img src="https://i.imgur.com/7mbBodZ.png" height="80%" width="80%" alt="Score History Screen"/>
 <br />
 <br />
 
