@@ -13,6 +13,7 @@ https://github.com/zjordan16/Handicap-Calculator
 
 - <b>Python</b> 
 - <b>BeeWare - A python cross-platform app development tool</b>
+- <b>Polars - A python library for data processing (similar to pandas)</b>
 - <b> TODO: Add more </b>
 
 <h2>Development Environments Used </h2>
@@ -36,13 +37,3 @@ Round Input & Score History Screen  <br/>
 <img src="https://i.imgur.com/7mbBodZ.png" height="80%" width="80%" alt="Score History Screen"/>
 <br />
 <br />
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
