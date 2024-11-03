@@ -17,7 +17,7 @@ https://github.com/zjordan16/Handicap-Calculator
 
 <h2>Development Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>PyCharm for Windows 10</b> (21H2)
 
 <h2>Distribution Environments </h2>
 
