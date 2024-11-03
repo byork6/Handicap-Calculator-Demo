@@ -16,17 +16,17 @@ https://github.com/zjordan16/Handicap-Calculator
 - <b>Polars - A python library for data processing (similar to pandas)</b>
 - <b> TODO: Add more </b>
 
-<h2>Development Environments Used </h2>
+<h2>Development Environments Used</h2>
 
 - <b>PyCharm for Windows 10</b> (21H2)
 
-<h2>Distribution Environments </h2>
+<h2>Distribution Environments</h2>
 
 - <b>Windows 10</b> (21H2)
 - <b>Future addition: Web</b>
 - <b>Future addition: iOS</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Images</h2>
 
 <p align="center">
 Login Screen <br/>
