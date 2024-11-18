@@ -1,6 +1,6 @@
 <h1>Golf Handicap Calculator Application</h1>
 
- ### TODO: Insert Demo Recording of Project Running
+<!--TODO: Insert Demo Recording of Project Running-->
 
 <h2>Description</h2>
 This Python project is a simple cross-platform application that tracks the golf handicap of a user. The end result will allow a user to login to their profile, input their round details, and view all previous rounds along with their handicap using the USGA handicap system. This project is still in progress, but in the future we want to add web app and mobile app functionality. Right now it functions on windows 10.
